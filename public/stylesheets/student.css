@@ -1,0 +1,9 @@
+.student {
+    width: 33%;
+    display: inline-block;
+    max-height: 20vh;
+}
+
+.student img {
+    max-width: 80%;
+}
